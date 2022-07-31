@@ -5,6 +5,11 @@
 </a>
 -->
 
+# News Aggregator 🗞
+
+Every ten minutes, the service collects messages from various sources and compiles the news picture of the day. This happens automatically, without any human intervention. From the messages, the service forms stories, each story is a selection of news about the same event.
+
+
 <a href="https://titanson.github.io/" target="_blank">
    <img src="https://github.com/xtsmi/brand/raw/main/appstore/1.png" alt="cover" width="24%" />
    <img src="https://github.com/xtsmi/brand/raw/main/appstore/2.png" alt="cover" width="24%" />
